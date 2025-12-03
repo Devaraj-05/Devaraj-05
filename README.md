@@ -1,13 +1,13 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://drive.google.com/file/d/1e4dH2y0dyvZhrA82qv4h8cPC1iwhbH7j/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Devaraj Padma</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Java, MERN**
 
-- 📫 How to reach me **padma.devaraj1800@gmail.com**
+- 📫 How to reach me **devarajpadma.work@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
