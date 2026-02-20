@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Java, MERN**
+- 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **devarajpadma.work@gmail.com**
 
